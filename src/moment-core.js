@@ -80,3 +80,4 @@ moment.calendarFormat        = getCalendarFormat;
 moment.prototype             = fn;
 
 export default moment;
+

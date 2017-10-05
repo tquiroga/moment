@@ -18,3 +18,4 @@ setLocaleLoader(function (name) {
 });
 
 export default moment;
+
